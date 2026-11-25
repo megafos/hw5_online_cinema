@@ -1,0 +1,4 @@
+requests
+psycopg[binary]
+APScheduler>=3.11,<4
+flask>=3.1,<4
